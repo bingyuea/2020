@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb926ffb-9d46-4ab8-af1e-ee5d5f74c3f2" name="Default" comment="" />
+    <list default="true" id="fb926ffb-9d46-4ab8-af1e-ee5d5f74c3f2" name="Default" comment="2020">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/index.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +20,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="184">
               <caret line="11" column="8" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
@@ -47,8 +50,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="223">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -87,11 +90,13 @@
       <find>deleteFn</find>
       <find>add</find>
       <find>chooseIndex</find>
+      <find>currentRoute</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="G:\software\Git\bin\git.exe" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,6 +139,7 @@
     <option name="width" value="1932" />
     <option name="height" value="1006" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -157,29 +163,6 @@
               <item name="2020学习" type="462c0819:PsiDirectoryNode" />
               <item name="vueRouter解析" type="462c0819:PsiDirectoryNode" />
               <item name="myRouter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2020学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2020学习" type="462c0819:PsiDirectoryNode" />
-              <item name="vueRouter解析" type="462c0819:PsiDirectoryNode" />
-              <item name="myRouter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2020学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2020学习" type="462c0819:PsiDirectoryNode" />
-              <item name="vueRouter解析" type="462c0819:PsiDirectoryNode" />
-              <item name="myRouter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="myRouter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2020学习" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2020学习" type="462c0819:PsiDirectoryNode" />
-              <item name="vueRouter解析" type="462c0819:PsiDirectoryNode" />
-              <item name="myRouter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,25 +227,35 @@
       <option name="presentableId" value="Default" />
       <updated>1583558429624</updated>
       <workItem from="1583558432166" duration="21578000" />
-      <workItem from="1583765011230" duration="853000" />
+      <workItem from="1583765011230" duration="1581000" />
+      <workItem from="1584450740340" duration="295000" />
     </task>
+    <task id="LOCAL-00001" summary="2020">
+      <created>1583766125445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583766125445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22431000" />
+    <option name="totallyTimeSpent" value="23454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.76082253" visible="true" weight="0.33719704" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.7592892" visible="true" weight="0.33719704" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50105375" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49894625" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.22077923" />
-      <window_info id="npm" order="0" sideWeight="0.2391775" side_tool="true" visible="true" weight="0.33719704" />
+      <window_info id="npm" order="0" sideWeight="0.24071082" side_tool="true" visible="true" weight="0.33719704" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2521645" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49947312" weight="0.2524377" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,7 +273,56 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/myRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/components/about.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -474,7 +516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="184">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
@@ -515,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vueRouter解析/myRouter/src/myRouter/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+        <state relative-caret-position="223">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -13,6 +13,15 @@ let vue
     
     constructor(option){
       this.hashChangeFn()
+      
+      
+      this.app = new Vue({
+        data(){
+          return {
+            currentRoute:'/'
+          }
+        }
+      })
     }
     
     hashChangeFn(){
